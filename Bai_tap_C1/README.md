@@ -1,5 +1,6 @@
 Nguyễn Định - BIT230091
 Trải nghiệm chất lượng giao diện phần mềm với https://cantunsee.space/ 
-<img width="1365" height="767" alt="Screenshot 2026-01-08 102820" src="https://github.com/user-attachments/assets/b009b1a9-923d-46bf-8dde-deeb32481616" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/34b45925-c945-43e0-8c9f-28851eab74e7" />
+
 
 
