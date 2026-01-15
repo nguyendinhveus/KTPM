@@ -28,7 +28,6 @@ public class StudentAnalyzer {
         if (scores == null || scores.isEmpty()) {
             return 0;
         }
-
         double sum = 0;
         int validCount = 0;
 
@@ -36,7 +35,6 @@ public class StudentAnalyzer {
             if (score == null || score < 0 || score > 10) {
                 continue;
             }
-
             sum += score;
             validCount++;
         }
@@ -44,7 +42,6 @@ public class StudentAnalyzer {
         if (validCount == 0) {
             return 0;
         }
-
         return sum / validCount;
     }
 }
