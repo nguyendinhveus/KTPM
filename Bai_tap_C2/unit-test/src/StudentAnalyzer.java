@@ -8,9 +8,7 @@ public class StudentAnalyzer {
         if (scores == null || scores.isEmpty()) {
             return 0;
         }
-
         int count = 0;
-
         for (Double score : scores) {
             // Bỏ qua dữ liệu sai
             if (score == null || score < 0 || score > 10) {
