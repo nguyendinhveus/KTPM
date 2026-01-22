@@ -122,22 +122,26 @@ npx cypress run --spec "cypress/e2e/login_spec.cy.js"
 ## Kết quả kiểm thử
 
 ### Kịch bản 1: Đăng nhập thành công
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ca6cfe4a-6e5b-4680-85ea-142e02dc4023" />
 
 ### Kịch bản 2: Đăng nhập thất bại
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/33de1b76-1ef1-4d8e-8901-152fbe1573df" />
 
 ### Kịch bản 3: Thêm sản phẩm vào giỏ hàng
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d34fb322-8ebb-410c-9692-89617f74fe7b" />
 
 ### Kịch bản 4: Sắp xếp sản phẩm theo giá
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/188080e9-c775-4e2b-b5ed-d32d2b2ce512" />
 
 ### Kịch bản 5: Xóa sản phẩm khỏi giỏ hàng
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f9f623ad-0ca6-4645-91e5-69550dbb981c" />  
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c19eda75-2daf-488b-bc60-413ae66417a3" />
 
 ### Kịch bản 6: Quy trình thanh toán
-*[Chèn ảnh kết quả tại đây]*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/21e828a9-86b8-4f60-b2cd-984093654258" />  
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2fa6d9ce-3a13-4be2-a0e8-f55750501f09" />  
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/daaead9a-c145-4e30-b8a5-228cad95c3ff" />
+
 
 ### Tổng quan kết quả
 *[Chèn ảnh tổng quan các test cases tại đây]*
