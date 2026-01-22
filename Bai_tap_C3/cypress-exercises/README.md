@@ -7,11 +7,6 @@
 
 ## Cài đặt
 
-### Yêu cầu
-- Node.js (phiên bản 14 hoặc cao hơn)
-- Visual Studio Code
-- Cypress
-
 ### Các bước cài đặt
 ```bash
 # Khởi tạo npm
@@ -142,15 +137,7 @@ npx cypress run --spec "cypress/e2e/login_spec.cy.js"
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2fa6d9ce-3a13-4be2-a0e8-f55750501f09" />  
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/daaead9a-c145-4e30-b8a5-228cad95c3ff" />
 
-
-### Tổng quan kết quả
-*[Chèn ảnh tổng quan các test cases tại đây]*
-
 ## Tài liệu tham khảo
 - [Cypress Documentation](https://docs.cypress.io)
 - [SauceDemo - Test Website](https://www.saucedemo.com)
 
-## Ghi chú
-- Tất cả các test cases đã được thực hiện theo yêu cầu bài tập
-- Các test cases bổ sung (xóa sản phẩm và thanh toán) đã được hoàn thành
-- Kết quả kiểm thử sẽ được cập nhật với ảnh chụp màn hình
